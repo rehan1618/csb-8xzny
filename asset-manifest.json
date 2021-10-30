@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://rehan1618.github.io/csb-8xzny/static/css/main.288d2667.chunk.css",
-    "main.js": "https://rehan1618.github.io/csb-8xzny/static/js/main.21e19000.chunk.js",
-    "main.js.map": "https://rehan1618.github.io/csb-8xzny/static/js/main.21e19000.chunk.js.map",
+    "main.css": "https://rehan1618.github.io/csb-8xzny/static/css/main.3ac5b935.chunk.css",
+    "main.js": "https://rehan1618.github.io/csb-8xzny/static/js/main.fbafc7f7.chunk.js",
+    "main.js.map": "https://rehan1618.github.io/csb-8xzny/static/js/main.fbafc7f7.chunk.js.map",
     "runtime-main.js": "https://rehan1618.github.io/csb-8xzny/static/js/runtime-main.b4623f15.js",
     "runtime-main.js.map": "https://rehan1618.github.io/csb-8xzny/static/js/runtime-main.b4623f15.js.map",
     "static/js/2.8697521b.chunk.js": "https://rehan1618.github.io/csb-8xzny/static/js/2.8697521b.chunk.js",
     "static/js/2.8697521b.chunk.js.map": "https://rehan1618.github.io/csb-8xzny/static/js/2.8697521b.chunk.js.map",
     "index.html": "https://rehan1618.github.io/csb-8xzny/index.html",
-    "static/css/main.288d2667.chunk.css.map": "https://rehan1618.github.io/csb-8xzny/static/css/main.288d2667.chunk.css.map",
+    "static/css/main.3ac5b935.chunk.css.map": "https://rehan1618.github.io/csb-8xzny/static/css/main.3ac5b935.chunk.css.map",
     "static/js/2.8697521b.chunk.js.LICENSE.txt": "https://rehan1618.github.io/csb-8xzny/static/js/2.8697521b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b4623f15.js",
     "static/js/2.8697521b.chunk.js",
-    "static/css/main.288d2667.chunk.css",
-    "static/js/main.21e19000.chunk.js"
+    "static/css/main.3ac5b935.chunk.css",
+    "static/js/main.fbafc7f7.chunk.js"
   ]
 }
